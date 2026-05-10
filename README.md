@@ -191,9 +191,13 @@ Acest lucru simplifică integrarea serviciilor și dezvoltarea aplicației.
 ## 5. Capturi ecran aplicație
 
 - **Pagina principală** — interfața la încărcare.
+<img width="568" height="217" alt="image" src="https://github.com/user-attachments/assets/acd51e4c-0573-4c42-81cf-1baab402babe" />
+
 - **Rezultate căutare** — afișarea rezultatelor Open Library și Gutendex după o căutare.
 
-*(Adaugă aici imaginile în repository sau în documentul PDF al proiectului, dacă este cerut.)*
+<img width="1851" height="657" alt="image" src="https://github.com/user-attachments/assets/45947439-d211-471f-9675-acbbd7697f81" />
+<img width="1838" height="680" alt="image" src="https://github.com/user-attachments/assets/8ca7a0ad-85d9-41b7-98fe-0c3bc125226f" />
+
 
 ---
 
