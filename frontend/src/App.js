@@ -1,6 +1,10 @@
 import { useState } from "react";
 import axios from "axios";
 
+const API_BASE =
+  process.env.REACT_APP_API_URL?.replace(/\/$/, "") ||
+  "http://localhost:5000";
+
 function App() {
   const [query, setQuery] = useState("");
   const [books, setBooks] = useState(null);
@@ -13,7 +17,7 @@ function App() {
 
     try {
       const response = await axios.get(
-        `http://localhost:5000/api/books/${query}`
+        `${API_BASE}/api/books/${encodeURIComponent(query)}`
       );
 
       setBooks(response.data);
