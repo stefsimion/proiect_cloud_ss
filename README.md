@@ -15,7 +15,7 @@ Aplicație web pentru căutarea și explorarea cărților.
 |---------|-----|
 | **Aplicație publicată (website)** | [https://proiect-cloud-ss.vercel.app/](https://proiect-cloud-ss.vercel.app/) |
 | **Repository GitHub** | [https://github.com/stefsimion/proiect_cloud_ss](https://github.com/stefsimion/proiect_cloud_ss) |
-
+| **Link Video** | [https://www.youtube.com/watch?v=KmN6E5M9BAU](https://www.youtube.com/watch?v=KmN6E5M9BAU) |
 ---
 
 ## 1. Introducere
@@ -191,13 +191,10 @@ Acest lucru simplifică integrarea serviciilor și dezvoltarea aplicației.
 ## 5. Capturi ecran aplicație
 
 - **Pagina principală** — interfața la încărcare.
-<img width="568" height="217" alt="image" src="https://github.com/user-attachments/assets/acd51e4c-0573-4c42-81cf-1baab402babe" />
+<img width="1920" height="368" alt="image" src="https://github.com/user-attachments/assets/2084fa1a-f7c4-47be-b0c3-f8d7fd902ef9" />
 
 - **Rezultate căutare** — afișarea rezultatelor Open Library și Gutendex după o căutare.
-
-<img width="1851" height="657" alt="image" src="https://github.com/user-attachments/assets/45947439-d211-471f-9675-acbbd7697f81" />
-<img width="1838" height="680" alt="image" src="https://github.com/user-attachments/assets/8ca7a0ad-85d9-41b7-98fe-0c3bc125226f" />
-
+<img width="1195" height="811" alt="image" src="https://github.com/user-attachments/assets/39eae17e-3832-4c7b-be5d-e4e7b65858b0" />
 
 ---
 
